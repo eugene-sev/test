@@ -8,4 +8,3 @@ for e in a:
     if int(e) < 5:
         print(e)
 print([e for e in a if int(e) > 5])
-
